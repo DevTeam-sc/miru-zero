@@ -1,0 +1,36 @@
+Metadata-Version: 2.4
+Name: miru-zero
+Version: 0.1.1
+Summary: Miru Zero orchestrator CLI
+Home-page: https://miru.re
+Author: Miru Developers
+Author-email: oleavr@miru.re
+License: wxWindows Library Licence, Version 3.1
+Keywords: miru debugger dynamic instrumentation inject javascript windows macos linux ios android
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Software Development :: Debuggers
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: miru-core>=16.5.7
+Requires-Dist: miru-tools>=16.5.7
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Miru Zero bootstrap, environment checker, and launcher for Miru.

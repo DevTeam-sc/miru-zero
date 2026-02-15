@@ -1,0 +1,3 @@
+[console_scripts]
+miru-zero = miru_zero.cli:main
+mz = miru_zero.cli:main
